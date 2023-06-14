@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "banco-de-dados": "jogos",
+        "usuario": "root",
+        "senha": "175839123zx",
+        "host": "127.0.0.1"
+    },
+
+    "api": {
+        "porta":3000
+    }
+
+}
